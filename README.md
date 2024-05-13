@@ -25,11 +25,10 @@ Aplicația Apex va cuprinde:
 
 10.4(A) Să se creeze o pagină APEX pentru Vizualizare curse șofer, unde se vor vedea toate cursele
 
-efectuate de un șofer (pagină vizualizare ierarhii tSofer-tCursa – vezi Curs 6 BD pagina 24).
+efectuate de un șofer (pagină vizualizare ierarhii tSofer-tCursa).
 
 10.5(A) Să se creeze o pagină APEX pentru Vizualizare istoric curse în care se vor afișa cursele unui
-client identificat prin nume (numele va fi citit printr-un parametru tip PageItem - vezi Curs 6 BD pagina
-27)
+client identificat prin nume (numele va fi citit printr-un parametru tip PageItem )
 
 10.6(A) Să se creeze o pagină APEX pentru Raportare statistică șofer – se va afișa o listă cu: nume,
 codCo, SID, număr mașini conduse, distanța totală și numărul total de curse efectuate.
@@ -42,8 +41,7 @@ codCo, SID, număr mașini conduse, distanța totală și numărul total de curs
 10.4(B) Să se creeze o pagină APEX pentru Adăugare cursă.
 
 10.5(B) Să se creeze o pagină APEX pentru Vizualizare șoferi companie unde se vor vedea șoferi
-angajați la o companie, identificată prin codCo (codCo va fi citit printr-un parametru tip PageItem - vezi
-Curs 6 BD pagina 27)
+angajați la o companie, identificată prin codCo (codCo va fi citit printr-un parametru tip PageItem)
 
 10.6(B) Să se creeze o pagină APEX pentru Raportare statistică mașină – se va afișa o listă cu
 mașinile (număr de înmatriculare și serie), numărul total de kilometri parcurși în curse, numărul de
